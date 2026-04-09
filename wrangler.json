@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "strongbangets",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "4bd4f1f9-9263-4256-933f-15bdd4ec6da6",
+			"database_name": "strongbangets"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
